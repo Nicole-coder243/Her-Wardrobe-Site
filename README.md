@@ -19,7 +19,7 @@ This mockup website showcases how Her Wardrobe could present its brand, style, a
 - **About:** Information about the brand and its vision
 - **Categories:** Browse different fashion and wardrobe sections
 - **Contact:** Easy way for visitors to get in touch
-- **FAQ:** Answers to common questions
+- **FAQ:** Answers to common questions but just questions that may be asked about the design and idea
 
 ## 🚀 Usage
 
